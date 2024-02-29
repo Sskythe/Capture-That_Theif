@@ -1,0 +1,16 @@
+.message{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70vh;
+    height: 70vh;
+    border: 4px solid white;
+    border-radius: 20px;
+
+}
+
+  .btn-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+  }

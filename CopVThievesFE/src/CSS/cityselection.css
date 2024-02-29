@@ -1,0 +1,19 @@
+.dropdowns{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    
+}
+.dropdowns select{
+    width: 10rem;
+    height: 2rem;
+}
+
+.screen ,.selection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+
